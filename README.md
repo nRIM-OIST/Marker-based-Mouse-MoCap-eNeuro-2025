@@ -4,9 +4,26 @@
 
 This repository accompanies our paper published in **eNeuro (2025)** describing a robust and precise marker-based motion capture (MoCap) method for analyzing mouse locomotion in 3D.
 
+## Authors
+
+**Bogna M. Ignatowska-Jankowska, Lakshmipriya I. Swaminathan, Tara H. Turkki, Dmitriy Sakharuk, Aysen Gurkan Ozer, Alexander Kuck, Marylka Yoe Uusisaari**
+
+### Author Contributions
+- **BIJ:** Designed research, Performed research, Analyzed data, Wrote the paper.
+- **LIS:** Performed research.
+- **THT:** Performed research.
+- **DS:** Analyzed data.
+- **AGO:** Performed research.
+- **AK:** Performed research.
+- **MYU:** Designed research, Performed research, Analyzed data, Wrote the paper.
+
+**Correspondence:** Marylka Yoe Uusisaari (<uusisaari@oist.jp>)
+
 ## Overview
 
 We developed and validated a high-resolution, marker-based motion capture system capable of tracking full-body kinematics of freely moving mice with sub-millimeter accuracy. The approach is especially suited to studying detailed locomotor behavior and subtle motor phenotypes, providing insights into complex motor control and neuroscience.
+
+
 
 ## Repository Structure
 
