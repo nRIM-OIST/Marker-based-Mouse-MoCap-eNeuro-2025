@@ -18,7 +18,7 @@ We developed and validated a high-resolution, marker-based motion capture system
 
 Complete raw experimental data (large datasets) are deposited and accessible via Zenodo:
 
-* [Zenodo dataset link (DOI)](https://zenodo.org/your-dataset-link) *(coming soon)*
+* [FigShare dataset link (DOI)](https://zenodo.org/your-dataset-link) *(coming soon)*
 
 ## License
 
