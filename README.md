@@ -11,7 +11,9 @@ We developed and validated a high-resolution, marker-based motion capture system
 ## Repository Structure
 
 * `CODE/`: Matlab and Python code for processing and analyzing MoCap data.
-* `FIGURES/`: Small sample datasets for immediate use and code demonstration (full datasets are bring made available on Zenodo).
+* `FIGURES/`: TIFF versions of figures published in the paper.
+* `MANUSCRIPT/`: The manuscript in PDF format.
+* `VIDEOS/`: MP4 videos demonstrating the motion capture system and example analyses.
 * `DOCS/`: Additional documentation, guidelines, and supplementary material.
 * `DATA/`: Sample datasets for testing and demonstration purposes. Full datasets are available on Zenodo.
 
