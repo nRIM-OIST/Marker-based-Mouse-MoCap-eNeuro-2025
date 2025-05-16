@@ -55,7 +55,7 @@ Ignatowska-Jankowska et al. (2025). Accurate tracking of locomotory kinematics i
 
 For questions, feedback, or collaboration, please contact:
 
-* **Corresponding Author:** *(Your contact information here)*
+* **Corresponding Author:** *uusisaari@oist.jp*
 
 ---
 
