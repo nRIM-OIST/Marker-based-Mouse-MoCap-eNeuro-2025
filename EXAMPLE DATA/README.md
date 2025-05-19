@@ -14,6 +14,8 @@ This folder contains representative motion capture data files used in the paper:
 - HARMALINE data is provided for OF only.
 
 These files are intended as an example of the general format of data.
-Full datasets are available on FIGSHARE for validation and further analysis.
+Full datasets are available on FIGSHARE for validation and further analysis: 
+- QTM files: DOI: 10.6084/m9.figshare.29096234
+- MATLAB files: DOI: 10.6084/m9.figshare.29096255
 
 If you use these data, please cite the original publication.
