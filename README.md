@@ -36,9 +36,7 @@ We developed and validated a high-resolution, marker-based motion capture system
 
 ## Raw Data Access
 
-Complete raw experimental data (large datasets) are deposited and accessible via Zenodo:
-
-* [FigShare dataset links (DOI)]*
+Complete raw experimental data (large datasets) are deposited and accessible via FIGSHARE:
 * [QTM files: DOI: 10.6084/m9.figshare.29096234](https://doi.org/10.6084/m9.figshare.29096234)
 * [MATLAB files: DOI: 10.6084/m9.figshare.29096255](https://doi.org/10.6084/m9.figshare.29096255)
 
