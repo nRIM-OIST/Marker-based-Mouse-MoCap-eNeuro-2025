@@ -1,6 +1,10 @@
 
 # README: Data Repository File Guide for Marker-based Mouse MoCap (eNeuro 2025)
 
+This dataset contains raw and processed data supporting the manuscript "Accurate tracking of locomotory kinematics in mice moving freely in three-dimensional environments" (eNeuro, 2025). It includes original, annotated Qualisys (.qtm) motion capture recordings as well as files exported to MATLAB (.mat). The files contain 3D trajectories from marker-based motion capture (MoCap) experiments in freely behaving mice. Experimental contexts include open-field locomotion, wheel climbing, and treadmill running under various pharmacological conditions (baseline, CP55940, and harmaline). Full details on methodology, analysis, and interpretation are available in the associated manuscript and GitHub repository. 
+
+The provided data files contain 3D trajectories of markers implanted in the skin of freely moving mice. The 30-120 sec  recordings were made using a Qualisys Motion Capture system consisting of 6 Oqus cameras.
+
 This document provides explanation of filenames and structure for the repository containing motion-capture data (.qtm and .mat files). Each filename encodes key experimental details.
 
 The files are provided in a compressed format for easy download. To access the .tar.gz files, please download the compressed file and extract it using command
