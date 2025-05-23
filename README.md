@@ -32,13 +32,11 @@ We developed and validated a high-resolution, marker-based motion capture system
 * `MANUSCRIPT/`: The manuscript in PDF format.
 * `VIDEOS/`: MP4 videos demonstrating the motion capture system and example analyses.
 * `DOCS/`: Additional documentation, guidelines, and supplementary material.
-* `DATA/`: Sample datasets for testing and demonstration purposes. Full datasets are available on Zenodo.
+* `EXAMPLE DATA/`: Sample trial data for a single animal. Full datasets are available on Zenodo.
 
 ## Raw Data Access
 
-Complete raw experimental data (large datasets) are deposited and accessible via FIGSHARE:
-* [QTM files: DOI: 10.6084/m9.figshare.29096234](https://doi.org/10.6084/m9.figshare.29096234)
-* [MATLAB files: DOI: 10.6084/m9.figshare.29096255](https://doi.org/10.6084/m9.figshare.29096255)
+Complete raw experimental data (large datasets) are deposited and accessible via [ZENODO](https://doi.org/10.5281/zenodo.15493338). The data includes original, annotated Qualisys (.qtm) motion capture recordings as well as files exported to MATLAB (.mat). Please refer to the Zenodo record for details on the datasets, including experimental contexts and conditions.
 
 ## License
 
